@@ -1,4 +1,4 @@
-# reverse-logistics-sql-project
+# Reverse-Logistics-Sql-project
 SQL project analyzing reverse logistics &amp; product returns — SKU, warehouse, and supplier insights.
 
 **Author:** M.S. Suvetha Andal  
