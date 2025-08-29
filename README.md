@@ -34,9 +34,7 @@ The goal is to identify **top return reasons, SKU-level return rates, supplier/w
 
 ---
 
-## 📊 Example Insights
-- SKU `SKU-1001` had a **15% return rate** driven by *damaged on delivery*.  
-- Warehouse `Chennai DC` showed highest returns due to packaging failures.  
+ 
 - Supplier `S1` contributed 40% of total returns, requiring a quality review.  
 - Only 45% of returned items were resellable, leading to significant write-offs.  
 
