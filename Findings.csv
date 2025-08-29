@@ -1,0 +1,95 @@
+🔢 Overall Return Performance					
+					
+Total Orders: 5					
+					
+Total Quantity Sold: 15					
+					
+Total Quantity Returned: 5					
+					
+Return Rate: 33.33% — very high and should be investigated further.					
+					
+					
+					
+📆 Monthly Overview (Jan 2025)					
+					
+Total Returned Qty: 5					
+					
+Total Return Cost: ₹4,500					
+					
+Average Days to Return: 3.3					
+					
+					
+					
+⚠️ Return Reasons					
+					
+Reason	Qty	Cost (₹)			
+Defective	2	1,200			
+Wrong Item	1	1,000			
+Damaged	1	800			
+Customer Remorse	1	1,500			
+Insight:					
+					
+"Customer Remorse" has the highest cost per return (₹1,500).					
+					
+"Defective" is the most common reason (2 returns).					
+					
+					
+					
+🛠️ SKU/Item Return Performance					
+					
+SKU	Product	Sold	Returned	Return Rate	Priority Score
+SKU-202	Pipe B	2	1	0.5	750
+SKU-201	Pipe A	5	2	0.4	720
+SKU-203	Valve C	4	2	0.5	600
+SKU-204	Joint D	2	0	-	-
+SKU-205	Cap E	2	0	-	-
+					
+Insight:					
+					
+SKU-202 and SKU-203 have the highest return rates (0.5).					
+					
+SKU-202 has the highest priority score (750), indicating it's critical to investigate its issues.					
+					
+					
+					
+🏢 Warehouse Breakdown					
+					
+Warehouse	Returned Qty	Cost (₹)	Avg. Cost/Return		
+Chennai DC	3	3,300	1,100		
+Bangalore DC	2	1,200	600		
+					
+Insight:					
+					
+Chennai DC has higher costs and quantity of returns. This may indicate issues with handling or sourcing.					
+					
+					
+					
+🚚 Supplier Performance					
+					
+Supplier	Return Events	Returned Qty	Return Cost (₹)		
+301	3	4	3,000		
+302	1	1	1,500		
+					
+Insight:					
+					
+Supplier 301 has more return events, but Supplier 302 has higher cost per return (₹1,500 per item), possibly due to "Customer Remorse".					
+					
+					
+					
+♻️ Resellable Products					
+					
+Percent Resellable: 40% — relatively low, meaning 60% of returned goods are likely losses.					
+					
+					
+					
+📌 Key Priorities for Action					
+					
+1. Investigate SKU-202 (Pipe B) for high return rate and priority score.					
+					
+2. Review Chennai DC processes to reduce return volume and costs.					
+					
+3. Analyze returns due to "Customer Remorse" — better product descriptions, images, or customer education could help.					
+					
+4. Collaborate with Supplier 302 to understand why returns are so costly.					
+					
+5. Work to increase resellable returns — possibly by improving packaging and reducing damage during transit.					
