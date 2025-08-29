@@ -1,0 +1,43 @@
+	Total_orders					
+	5					
+	Total_qty_sold					
+	15					
+	Total_qty_returned					
+	5					
+	Return_rate_pct					
+	33.33333333					
+Month	Returned_qty	Returned_cost				
+2025-01	5	4500				
+						
+Return_reason	Total_returned_qty	Total_return_cost				
+Defective	2	1200				
+Wrong Item	1	1000				
+Damaged	1	800				
+Customer Remorse	1	1500				
+						
+SKU	Product_name	Sold_qty	Returned_qty	Return_rate		
+SKU-202	Pipe B	2	1	0.5		
+SKU-203	Valve C	4	2	0.5		
+SKU-201	Pipe A	5	2	0.4		
+SKU-204	Joint D	2	-	-		
+SKU-205	Cap E	2	-	-		
+						
+Avg_days_to_return						
+3.3						
+						
+Warehouse	Total_returned_qty	Total_return_cost	Avg_cost_per_return			
+Chennai DC	3	3300	1100			
+Bangalore DC	2	1200	600			
+						
+Supplier_id	Return_events	returned_qty	total_return_cost			
+301	3	4	3000			
+302	1	1	1500			
+Pct_resellable						
+0.4						
+						
+SKU	product_name	sold_qty	returned_qty	return_cost	return_rate	priority_score
+SKU-202	Pipe B	2	1	1500	0.5	750
+SKU-201	Pipe A	5	2	1800	0.4	720
+SKU-203	Valve C	4	2	1200	0.5	600
+SKU-204	Joint D	2	-	-	-	-
+SKU-205	Cap E	2	-	-	-	-
